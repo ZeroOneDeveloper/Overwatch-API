@@ -6,8 +6,8 @@
 작성하였습니다. 
 
 # 제작자
-디스코드 : `STORM#9999`
-이메일 : `storm@stormdev.club`
+디스코드 : `zero_ne`
+이메일 : `me@zero0ne.dev`
 
 # 사용 방법
 ```py
